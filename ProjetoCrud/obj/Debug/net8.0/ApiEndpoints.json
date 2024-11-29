@@ -1,0 +1,100 @@
+[
+  {
+    "ContainingType": "ProjetoCrud.Controllers.ProdutoController",
+    "Method": "DeleteProduto",
+    "RelativePath": "api/Produto/DeleteProduto",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idProduto",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProjetoCrud.Models.ResponseModel\u00601[[System.Collections.Generic.List\u00601[[ProjetoCrud.Models.ProdutoModel, ProjetoCrud, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjetoCrud.Controllers.ProdutoController",
+    "Method": "EditProduto",
+    "RelativePath": "api/Produto/EditProduto",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "produtoEdicaoDto",
+        "Type": "ProjetoCrud.Dto.Produto.ProdutoEdicaoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProjetoCrud.Models.ResponseModel\u00601[[System.Collections.Generic.List\u00601[[ProjetoCrud.Models.ProdutoModel, ProjetoCrud, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjetoCrud.Controllers.ProdutoController",
+    "Method": "GetProdutos",
+    "RelativePath": "api/Produto/GetProdutos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ProjetoCrud.Models.ResponseModel\u00601[[System.Collections.Generic.List\u00601[[ProjetoCrud.Models.ProdutoModel, ProjetoCrud, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjetoCrud.Controllers.ProdutoController",
+    "Method": "PostProdutos",
+    "RelativePath": "api/Produto/PostProdutos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "produtoCriacaoDto",
+        "Type": "ProjetoCrud.Dto.Produto.ProdutoCriacaoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProjetoCrud.Models.ResponseModel\u00601[[System.Collections.Generic.List\u00601[[ProjetoCrud.Models.ProdutoModel, ProjetoCrud, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projeto kayo\\ProjetoCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|c:\\projeto kayo\\projetocrud\\projetocrud\\service\\produto\\iprodutointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|solutionrelative:projetocrud\\service\\produto\\iprodutointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|c:\\projeto kayo\\projetocrud\\projetocrud\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|solutionrelative:projetocrud\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|c:\\projeto kayo\\projetocrud\\projetocrud\\service\\produto\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|solutionrelative:projetocrud\\service\\produto\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|c:\\projeto kayo\\projetocrud\\projetocrud\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|solutionrelative:projetocrud\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|c:\\projeto kayo\\projetocrud\\projetocrud\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|solutionrelative:projetocrud\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|c:\\projeto kayo\\projetocrud\\projetocrud\\dto\\produto\\produtoedicaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|solutionrelative:projetocrud\\dto\\produto\\produtoedicaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|c:\\projeto kayo\\projetocrud\\projetocrud\\dto\\produto\\produtocriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|solutionrelative:projetocrud\\dto\\produto\\produtocriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|c:\\projeto kayo\\projetocrud\\projetocrud\\projetocrud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|solutionrelative:projetocrud\\projetocrud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|c:\\projeto kayo\\projetocrud\\projetocrud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|solutionrelative:projetocrud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|c:\\projeto kayo\\projetocrud\\projetocrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A79C7AB-5A9F-4EEE-BE95-AA65253546EF}|ProjetoCrud\\ProjetoCrud.csproj|solutionrelative:projetocrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Service\\Produto\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "ProjetoCrud\\Service\\Produto\\ProdutoService.cs",
+              "ToolTip": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Service\\Produto\\ProdutoService.cs",
+              "RelativeToolTip": "ProjetoCrud\\Service\\Produto\\ProdutoService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:07:18.06Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProdutoInterface.cs",
+              "DocumentMoniker": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Service\\Produto\\IProdutoInterface.cs",
+              "RelativeDocumentMoniker": "ProjetoCrud\\Service\\Produto\\IProdutoInterface.cs",
+              "ToolTip": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Service\\Produto\\IProdutoInterface.cs",
+              "RelativeToolTip": "ProjetoCrud\\Service\\Produto\\IProdutoInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:08:42.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoModel.cs",
+              "DocumentMoniker": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Models\\ProdutoModel.cs",
+              "RelativeDocumentMoniker": "ProjetoCrud\\Models\\ProdutoModel.cs",
+              "ToolTip": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Models\\ProdutoModel.cs",
+              "RelativeToolTip": "ProjetoCrud\\Models\\ProdutoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:08:32.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "ProjetoCrud\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "ProjetoCrud\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:18:29.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProdutoCriacaoDto.cs",
+              "DocumentMoniker": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Dto\\Produto\\ProdutoCriacaoDto.cs",
+              "RelativeDocumentMoniker": "ProjetoCrud\\Dto\\Produto\\ProdutoCriacaoDto.cs",
+              "ToolTip": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Dto\\Produto\\ProdutoCriacaoDto.cs",
+              "RelativeToolTip": "ProjetoCrud\\Dto\\Produto\\ProdutoCriacaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:44:49.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "ProjetoCrud\\Models\\ResponseModel.cs",
+              "ToolTip": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "ProjetoCrud\\Models\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:14:04.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutoEdicaoDto.cs",
+              "DocumentMoniker": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Dto\\Produto\\ProdutoEdicaoDto.cs",
+              "RelativeDocumentMoniker": "ProjetoCrud\\Dto\\Produto\\ProdutoEdicaoDto.cs",
+              "ToolTip": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Dto\\Produto\\ProdutoEdicaoDto.cs",
+              "RelativeToolTip": "ProjetoCrud\\Dto\\Produto\\ProdutoEdicaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:53:02.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjetoCrud.http",
+              "DocumentMoniker": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\ProjetoCrud.http",
+              "RelativeDocumentMoniker": "ProjetoCrud\\ProjetoCrud.http",
+              "ToolTip": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\ProjetoCrud.http",
+              "RelativeToolTip": "ProjetoCrud\\ProjetoCrud.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-28T16:15:13.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProjetoCrud\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProjetoCrud\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:39:40.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoCrud\\Program.cs",
+              "ToolTip": "C:\\projeto kayo\\ProjetoCrud\\ProjetoCrud\\Program.cs",
+              "RelativeToolTip": "ProjetoCrud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:08:37.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
